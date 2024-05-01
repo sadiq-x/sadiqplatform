@@ -4,8 +4,9 @@
 
 ## 🚀 Geral
 
-* [About Us](geral/about-us.md)
-* [Privacy Policy](geral/privacy-policy.md)
+* [Sobre nós](geral/sobre-nos.md)
+* [Serviços](geral/servicos.md)
+* [Politica de privacidade.](geral/politica-de-privacidade..md)
 
 ## 🐲 Project
 
