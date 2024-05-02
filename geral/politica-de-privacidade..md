@@ -6,7 +6,9 @@ description: Leia sobre a politica de privacidade, nós preservamos os seus dire
 
 A **sadiqplatform.com** é uma plataforma de venda de serviços informáticos e digitais.&#x20;
 
-Adquirimos segurança para criar lealdade, nós preservamos os seus direitos
+Cuidamos dos seus dados pessoais e comprometemo-nos a garantir a sua confidencialidade e segurança, preservando sempre os seus direitos.
+
+O site da sadiqplatform é propriedade de sadiq, que é uma controladora dos seus dados, sem recorrer a terceiros.
 
 #### Serviços.
 
@@ -23,3 +25,5 @@ A utilização da sadiqplatform não utiliza qualquer tipo de dado do utilizador
 Somos leais a todos os nossos clientes que necessitem de qualquer serviço, não utilizando, nem partilhando qualquer tipo de dado.&#x20;
 
 Todo o desenvolvimento da sadiqplatform não prejudicará o utilizador.&#x20;
+
+Se desejar entrar em contacto conosco para entender mais sobre esta Política ou se quiser falar sobre qualquer assunto relacionado aos direitos individuais e as suas informações pessoais, pode enviar um email para sadiqmasterdevil@gmail.com.
