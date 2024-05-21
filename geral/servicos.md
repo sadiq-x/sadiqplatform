@@ -30,6 +30,10 @@ Um Robot de mensagem ajuda á resposta de mensagens para  a empresa. Esta é uma
 
 {% embed url="https://github.com/sadiq-x/AgendaRuimBot" %}
 
-## Marketing Digital e Fisico.
+## Gestão de Redes Sociais.
+
+Type.
+
+## Marketing Digital & Físico.
 
 Type.

@@ -12,9 +12,17 @@ A **sadiqplatform** é uma plataforma que presta serviços com o pensamento foca
 
 A Sadiqplatform é desenvolvida a nível nacional, Portugal.
 
+## A Equipa?
+
 #### Developer
 
 [https://twitter.com/sadiqGods](https://twitter.com/sadiqGods)&#x20;
+
+[https://x.com/\_coelio\_](https://x.com/\_coelio\_)
+
+#### Marketing
+
+.
 
 ## Apoios?
 
