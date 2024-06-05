@@ -32,8 +32,8 @@ Um Robot de mensagem ajuda á resposta de mensagens para  a empresa. Esta é uma
 
 ## Gestão de Redes Sociais.
 
-Type.
+Em breve.
 
 ## Marketing Digital & Físico.
 
-Type.
+Em breve.
