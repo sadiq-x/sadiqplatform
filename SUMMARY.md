@@ -8,7 +8,7 @@
 * [Serviços](geral/servicos.md)
 * [Politica de privacidade.](geral/politica-de-privacidade..md)
 
-## 🐲 Project
+## 🥷 Project
 
 * [V1](project/v1.md)
 * [V2](project/v2.md)
