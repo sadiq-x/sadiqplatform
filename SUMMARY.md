@@ -8,8 +8,12 @@
 * [Serviços](geral/servicos.md)
 * [Politica de privacidade.](geral/politica-de-privacidade..md)
 
-## 🥷 Project
+## 🛠️ Projeto
 
-* [V1](project/v1.md)
-* [V2](project/v2.md)
-* [V3](project/v3.md)
+* [V1](projeto/v1.md)
+* [V2](projeto/v2.md)
+* [V3](projeto/v3.md)
+
+## 💡 Negócios&#x20;
+
+* [CAD Bar](negocios/cad-bar.md)
